@@ -6,7 +6,7 @@
   <a href='https://github.com/redi-db/redi.db/issues'><img alt="Open Issue" src="https://img.shields.io/badge/Help-Open%20Issue-color%3Dblueviolet?style=flat&logo=appveyor&color=blueviolet&logo=github">
   <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/redi-db/redi.db?style=flat&color=blueviolet&label=Issues">
   
-  <br><br>
+  <br>
   
   **_PRIMARY_ testing seemed that the server is ready to handle a lot of queries and processing at the same time, approx:**
   <br>📀 **30,000** queries to create
