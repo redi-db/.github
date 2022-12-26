@@ -9,7 +9,7 @@
   <br><br>
   
   **_PRIMARY_ testing seemed that the server is ready to handle a lot of queries and processing at the same time, approx:**
-  <br>⚡️ The longest SearchOne response at this load and **700.000** data is **2** seconds
-  <br>✏️ **30,000** update and updateOne requests
   <br>📀 **30,000** queries to create
+  <br>✏️ **30,000** update and updateOne requests
+  <br>⚡️ The longest SearchOne response at this load and **700.000** data is **2** seconds
 </div>
