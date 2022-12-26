@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#Hi there 👋
+RediDB is an easy and fast database for your project that you can use for small and frequent storage of different data
+<br><br/>
+**__PRIMARY__ testing seemed that the server is ready to handle a lot of queries and processing at the same time, approx:**
+📀 **30,000** queries to create
+✏️ **30,000** update and updateOne requests
+⚡️ The longest searchOne response at this load is **2** seconds
