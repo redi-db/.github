@@ -1,4 +1,4 @@
-#Hi there 👋
+## Hi there 👋
 RediDB is an easy and fast database for your project that you can use for small and frequent storage of different data
 <br><br/>
 **__PRIMARY__ testing seemed that the server is ready to handle a lot of queries and processing at the same time, approx:**
